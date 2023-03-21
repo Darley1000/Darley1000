@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Darley1000/Darley1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>  Me chammo Darley tenho 29 Anos </h1>
+<br>
+<p> Atualmente estou apren sobre programação , e esta  otimo o aprendizado </p>
+<h2> Aprendizado em Andamento </h2>
+-HTML
+<br>
+-CSS
+<br>
+<h2>  obter Aprendizado</h2>
+-javascript
+<br>
+-node-js
+<br>
+<h2> Onde me Achar </h2>
+<a href=https://web.facebook.com/settings?tab=account&section=username>facebook</a>
